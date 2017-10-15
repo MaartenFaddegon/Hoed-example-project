@@ -5,7 +5,7 @@ This is an example project showing how to use Hoed to find a defect.
 To get started clone this repository and set up a stack environment for the project:
 
     git clone https://github.com/MaartenFaddegon/Hoed-example-project
-    stack setup
+    cd Hoed-example-project && stack setup
 
 Then start the repl with
 
